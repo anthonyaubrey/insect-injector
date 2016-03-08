@@ -32,10 +32,17 @@ var insects = [
       eatsPlants: true,
     }
   }, {
-
+    name: 'Tortoise Beetle',
+    img: 'tortoise-beetle.jpg',
+    size: [1, 18],
+    family: 'Cassidinae',
+    food: {
+      eatsInsects: false,
+      eatsDung:  false,
+      eatsPlants: true,
+    }
   }
-]
-
+];
 
 // ##########################################################
 // START DO NOT CHANGE ZONE
