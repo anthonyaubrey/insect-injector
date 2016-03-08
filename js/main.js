@@ -8,7 +8,7 @@ var insects = [
     family: 'Carabidae',
     food: {
       eatsInsects: true,
-      eatsDung:  false,
+      eatsDung: false,
       eatsPlants: false,
     }
   }, {
@@ -18,7 +18,7 @@ var insects = [
     family: 'Scarabidae',
     food: {
       eatsInsects: false,
-      eatsDung:  true,
+      eatsDung: true,
       eatsPlants: false,
     }
   }, {
@@ -28,7 +28,7 @@ var insects = [
     family: 'Lucanidae',
     food: {
       eatsInsects: false,
-      eatsDung:  false,
+      eatsDung: false,
       eatsPlants: true,
     }
   }, {
@@ -38,7 +38,7 @@ var insects = [
     family: 'Cassidinae',
     food: {
       eatsInsects: false,
-      eatsDung:  false,
+      eatsDung: false,
       eatsPlants: true,
     }
   }
