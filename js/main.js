@@ -20,6 +20,19 @@ var insects = [
       eatsInsects: false,
       eatsDung:  true,
       eatsPlants: false,
+    }
+  }, {
+    name: 'Stag Beetle',
+    img: 'stag-beetle.jpg',
+    size: [5, 120],
+    family: 'Lucanidae',
+    food: {
+      eatsInsects: false,
+      eatsDung:  false,
+      eatsPlants: true,
+    }
+  }, {
+
   }
 ]
 
